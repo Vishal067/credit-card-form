@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Credit Card Form
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+project netlity [URL](https://github.com/facebook/create-react-app).
+
+This form also detects card type of visa, matercard etc.
 
 ## Available Scripts
 
