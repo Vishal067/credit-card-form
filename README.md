@@ -1,6 +1,6 @@
 # Credit Card Form
 
-project netlity [URL](https://github.com/facebook/create-react-app).
+project netlity [URL](https://vishal-creditcard.netlify.app/).
 
 This form also detects card type of visa, matercard etc.
 
